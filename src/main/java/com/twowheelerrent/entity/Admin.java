@@ -44,10 +44,6 @@ public class Admin {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	public Admin() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
 	public String getPassword() {
 		return password;
 	}
